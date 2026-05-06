@@ -1,7 +1,7 @@
 # 📘 Markdown README ir .gitignore Examples
 
 ## INFO:
-- Trumpas pavyzdys, parodantis pagrindinius Markdown (README.md) elementus GitHub projektams. Kaip valdyti ant VS code skaitykite MD_file_info.txt
+- Trumpas pavyzdys, parodantis pagrindinius Markdown (README.md) elementus GitHub projektams. 
 - *.gitignore* byloje - rasite tipinį-universalų PHP .gitignore bylą su paaiškinimais. 
 - Jei norite pamatyti  šio *README.md* tegus  (t.y. kaip rašyti MD bylą TXT mode) spauskite aukčiau ant README.md ir pasirinkite CODE.
 > *.gitignore* butina papildyti savo *sensitive* tipo bylomis, jei naudojama ne tipinės .env ar config.php
