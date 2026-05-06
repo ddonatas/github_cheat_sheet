@@ -1,7 +1,29 @@
 # 📘 Markdown README ir .gitignore Examples
 
-Trumpas pavyzdys, parodantis pagrindinius Markdown (README.md) elementus GitHub projektams.
-Daugiau skaityti: MD_file_info.txt
+## INFO:
+- Trumpas pavyzdys, parodantis pagrindinius Markdown (README.md) elementus GitHub projektams. Kaip valdyti ant VS code skaitykite MD_file_info.txt
+- *.gitignore* byloje - rasite tipinį-universalų PHP .gitignore bylą su paaiškinimais. 
+- Jei norite pamatyti  šio *README.md* tegus  (t.y. kaip rašyti MD bylą TXT mode) spauskite aukčiau ant README.md ir pasirinkite CODE.
+> *.gitignore* butina papildyti savo *sensitive* tipo bylomis, jei naudojama ne tipinės .env ar config.php
+
+## Atsidaryti *README.md* preview režimu kompiuteryje galima 
+
+### 1. VS Code (geriausias variantas)
+
+- Atidaryk .md failą
+Spausk:
+Ctrl + Shift + V
+
+👉 Atsidarys Markdown Preview
+
+- Split view :
+Ctrl + K → V
+
+👉 Kairėje kodas, dešinėje preview
+
+### 2. Per naršyklę (be programų)
+- Atidaryk GitHub
+- Įkelk README.md
 ---
 
 ## 🧾 1. Antraštės (Headings)
@@ -47,7 +69,7 @@ Sintaksė:
 
 ## 🖼️ 5. Paveikslėliai
 
-![Example Image](https://via.placeholder.com/150)
+![Example Image](https://code.visualstudio.com/assets/branding/code-stable.png)
 
 Sintaksė:  
 `![alt tekstas](image_url)`
